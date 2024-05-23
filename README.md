@@ -1,4 +1,4 @@
-# ResMod4-Klp8-Full-Senyum
+# ResMod4-Full-Senyum
 
 ## Background Removal Part 1
 Create a program that can remove the background from an image with this following steps:
@@ -23,7 +23,6 @@ Create a program that can remove the background from an image with this followin
     - What is the flow of this section look like?
     - If there any picture in it, try to explain what is happening in the picture
 
-# Deadline: The End of May 17th
 C U on Part 2
 
 
